@@ -4,13 +4,15 @@
 [Bb]uild/
 [Bb]uilds/
 [Ll]ogs/
+[Mm]emoryCaptures/
 UserSettings/
 
-MemoryCaptures/
-Recordings/
+Assets/AssetStoreTools*
 
 .vscode/
+.vs/
 .idea/
+.gradle/
 
 *.csproj
 *.unityproj
