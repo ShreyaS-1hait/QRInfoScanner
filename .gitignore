@@ -1,24 +1,41 @@
+# Unity generated folders
 [Ll]ibrary/
 [Tt]emp/
 [Oo]bj/
 [Bb]uild/
 [Bb]uilds/
 [Ll]ogs/
-[Mm]emoryCaptures/
 UserSettings/
+MemoryCaptures/
+Recordings/
 
-Assets/AssetStoreTools*
-
-.vscode/
-.vs/
-.idea/
-.gradle/
-
+# Unity generated files
 *.csproj
 *.unityproj
 *.sln
 *.user
 *.pidb
 *.booproj
+*.svd
+*.pdb
+*.mdb
+*.opendb
+*.VC.db
 
+# Visual Studio
+.vs/
+.vscode/
+.idea/
+
+# macOS
 .DS_Store
+
+# Gradle
+.gradle/
+
+# APKs
+*.apk
+
+# Unity backup/debug folders
+*_BurstDebugInformation_DoNotShip/
+*_BackUpThisFolder_ButDontShipItWithYourGame/
